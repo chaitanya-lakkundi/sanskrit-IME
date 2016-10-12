@@ -8,10 +8,8 @@ which apt-get
 res=$?
 
 if [ $res -eq 0 ];then
-sudo apt-get install libxtst6 libx11-6 libx11-xcb1 x11-utils libxdmcp6 libc6 libxi6 libxau6 libxcb1
-sudo apt-get install libxtst-dev libx11-dev libxdmcp-dev libc6-dev libxi-dev libxau-dev libxcb1-dev
 
-sudo apt-get install sharutils zenity
+sudo apt-get install xdotool sharutils zenity
 
 else
 
