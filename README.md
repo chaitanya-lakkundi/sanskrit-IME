@@ -2,6 +2,7 @@
 #सुलभ संस्कृतटङ्कणलेखनी
 
 ##For Linux
+
 How to use
 ==========
 
@@ -19,10 +20,10 @@ How to use
 Tested On
 =========
 
-BOSS Linux 5.1  (64 bit)   (Bharat Operating System Solutions)[ https://bosslinux.in ]
-Ubuntu 14.04    (64 bit)
-Linux Mint 17.1 (32 bit)
-Fedora 23       (64 bit)
+1. BOSS Linux 5.1  (64 bit)   (Bharat Operating System Solutions)[ https://bosslinux.in ]
+2. Ubuntu 14.04    (64 bit)
+3. Linux Mint 17.1 (32 bit)
+4. Fedora 23       (64 bit)
 
 How to develop
 ==============
@@ -35,49 +36,51 @@ How to develop
 
 Examples:
 
-1. mm nAm chaitanfyH / mama naama chaitanfyaH
-        मम नाम चैतन्यः    
-2. kRRidanfta ruupa mAlA / kRRidnft rUp maalaa
-        कृदन्त रूप माला
+1. mm nAm chaitanfyH / mama naama chaitanfyaH .
+	मम नाम चैतन्यः 
+2. kRRidanfta ruupa mAlA / kRRidnft rUp maalaa .
+	कृदन्त रूप माला
 
 Please note that character f is used for halanta. To type combined words a halanta needs to be added at the end of first character.
-Eg. To type विश्व   --   vishfva        (notice that f is typed after sh which adds a halanta to श and make it श् )
+Eg. To type **विश्व**   --   **vishfva**		(notice that f is typed after sh which adds a halanta to श and make it श् ).
 
-ka      क
-kaf     क्
+###  ka		क
+###  kaf	क्
 
 ##Full Keyboard Map
+
+###(very similar to ITRANS format)
 
 Vowels (dependent and independent):
 -----------------------------------
 
-a     aa / A       i      ii / I       u     uu / U 
-RRi / R^i    RRI / R^I    LLi / L^i    LLI / L^I
-e     ai     o     au     aM    aH
+* a	aa / A		i			ii / I		u		uu / U 
+* RRi / R^i		RRI / R^I	LLi / L^i		LLI / L^I
+* e		ai		o		au		aM		aH
 
 Consonants:
 ----------- 
-k     kh     g     gh     ~N
-ch    Ch     j     jh     ~n
-T     Th     D     Dh     N
-t     th     d     dh     n
-p     ph     b     bh     m
-y     r      l     v / w
-sh    Sh     s     h      L
-j~n
+* k		kh		g		gh		~N
+* ch	Ch		j		jh		~n
+* T		Th		D		Dh		N
+* t		th		d		dh		n
+* p		ph		b		bh		m
+* y		r		l		v / w
+* sh	Sh		s		h		L
+* j~n
 
 Specials/Accents:
 -----------------
-Anusvara:       .n / M / .m  (dot on top of previous consonant/vowel)
-Avagraha:       .a    ('S' like symbol basically to replace a after o)
-Ardhachandra:   .c    (for vowel sound as in english words 'cat' or 'talk')
-Chandra-Bindu:  .N    (chandra-bindu on top of previous letter)
-Halant:		    .h    (to get half-form of the consonant - no vowel - virama)
-Visarga:        H     (visarga - looks like a colon character)
-Om:		        OM, AUM (Om symbol)
+* Anusvara:			.n / M / .m	(dot on top of previous consonant/vowel)
+* Avagraha:			.a		('S' like symbol basically to replace a after o)
+* Ardhachandra:		.c		(for vowel sound as in english words 'cat' or 'talk')
+* Chandra-Bindu:	.N		(chandra-bindu on top of previous letter)
+* Halant:			.h		(to get half-form of the consonant - no vowel - virama)
+* Visarga:			 H		(visarga - looks like a colon character)
+* Om:				OM, AUM	(Om symbol)
 
 
-[As shown, many codes have multiple choices, example "RRi / R^i" implies you
+* [As shown, many codes have multiple choices, example "RRi / R^i" implies you
  can use either "RRi" or "R^i"]
  
 ## **धन्यवादाः**
