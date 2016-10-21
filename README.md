@@ -8,17 +8,14 @@ How to use
 
 1. Open your favourite terminal.
 2. Locate this(current) directory.
-3.	  `chmod +x SSTL_XX.run configure.sh`
-4.	 `./configure.sh`   (For Ubuntu and Debian based systems)
-(All the libraries are inbuilt in Ubuntu, Linux Mint)
-
-5. 	 `./SSTL_32.run` or `./SSTL_64.run`
+3.	 `./configure.sh`
+4. 	 `./SSTL_32.run` or `./SSTL_64.run`
+5. Now you can type anywhere in देवनागरी.
 6. Press F8 to disable SSTL. Again press F8 to enable.
-7. Now you can type anywhere in देवनागरी.
-8. Goto the terminal and press Ctrl+c to quit the application.
+7. Goto the terminal and press <kbd>CTRL</kbd>+<kbd>C</kbd> to quit the application.
 
 Tested On
-========
+=========
 
 1. BOSS Linux 5.1  (64 bit)  (Bharat Operating System Solutions) [ https://bosslinux.in ]
 2. Ubuntu 14.04    (64 bit)
@@ -26,7 +23,7 @@ Tested On
 4. Fedora 23       (64 bit)
 
 How to develop
-=============
+==============
 
 1. The src folder contains all the sources required to build this program.
 2. 	`gcc main.c -lX11 -lXtst`		to compile from source
@@ -41,8 +38,8 @@ Examples:
 2. kRRidanfta ruupa mAlA / kRRidnft rUp maalaa
     * __कृदन्त रूप माला__
 
-Please note that character f is used for halanta. To type combined words a halanta needs to be added at the end of first character.
-Eg. To type **विश्व**   --   **vishfva**		(notice that f is typed after sh which adds a halanta to श and make it श् ).
+Please note that the character <kbd>f</kbd> is used for halanta. To type combined words a halanta needs to be added at the end of the first character.
+Eg. To type **विश्वं**   --   **vishfvaM**		(notice that f is typed after sh which adds a halanta to श and makes it श् ).
 
 ###example.:
 ###  ka / k - क
@@ -50,17 +47,17 @@ Eg. To type **विश्व**   --   **vishfva**		(notice that f is typed afte
 
 ##Full Keyboard Map (very similar to ITRANS format)
 
-Vowels:
----------
-
+Vowels
+------
+ | | | | |
  ---|---|---|---|---|
 a|aa / A|i|ii / I|u|uu / U 
 RRi / R^i|RRI / R^I|LLi / L^i|LLI / L^I
 e|ai|o|au|aM|aH
 
 Consonants
---------------
-
+----------
+| | | | | | 
 ---|---|---|---|---|
 k|kh|g|gh|~N
 ch|Ch|j|jh|~n
