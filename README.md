@@ -52,7 +52,7 @@ Eg. To type **विश्व**   --   **vishfva**		(notice that f is typed afte
 
 Vowels:
 ---------
- | | | | |
+
  ---|---|---|---|---|
 a|aa / A|i|ii / I|u|uu / U 
 RRi / R^i|RRI / R^I|LLi / L^i|LLI / L^I
@@ -60,7 +60,7 @@ e|ai|o|au|aM|aH
 
 Consonants
 --------------
-| | | | | | 
+
 ---|---|---|---|---|
 k|kh|g|gh|~N
 ch|Ch|j|jh|~n
@@ -69,7 +69,7 @@ t|th|d|dh|n
 p|ph|b|bh|m
 y|r|l|v / w
 sh|Sh|s|h|L
-j~n|
+kfSh|jf~n|
 
 Special characters | Key combination | Description
 ------------------ | --------------- | -----------
