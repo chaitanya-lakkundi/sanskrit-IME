@@ -1,7 +1,7 @@
-#Sulabha Samskrita Tankana Lekhani
-#सुलभ संस्कृतटङ्कणलेखनी
+# Sulabha Samskrita Tankana Lekhani
+# सुलभ संस्कृतटङ्कणलेखनी
 
-##For Linux
+## For Linux
 
 How to use
 ==========
@@ -41,16 +41,16 @@ Examples:
 Please note that the character <kbd>f</kbd> is used for halanta. To type combined words a halanta needs to be added at the end of the first character.
 Eg. To type **विश्वं**   --   **vishfvaM**		(notice that f is typed after sh which adds a halanta to श and makes it श् ).
 
-###example.:
+### example:
 ###  ka / k - क
 ###  kaf - क्
 
-##Full Keyboard Map (very similar to ITRANS format)
+## Full Keyboard Map (very similar to ITRANS format)
 
 Vowels
 ------
- | | | | |
- ---|---|---|---|---|
+| | | | | | |
+ ---|---|---|---|---|---|
 a|aa / A|i|ii / I|u|uu / U 
 RRi / R^i|RRI / R^I|LLi / L^i|LLI / L^I
 e|ai|o|au|aM|aH
